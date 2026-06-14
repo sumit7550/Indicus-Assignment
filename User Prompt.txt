@@ -1,0 +1,11 @@
+Objective: {user_scenario}
+Current URL: {current_url}
+
+Interactive Elements:
+{serialized_json_elements}
+
+Helpful Page Context:
+{extracted_headings_and_badges}
+
+History of Actions Taken:
+{previous_execution_steps_and_errors}
